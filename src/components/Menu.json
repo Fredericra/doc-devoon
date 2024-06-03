@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Introduction",
+        "routerName": "intro"
+    },
+    {
+        "name": "Installation",
+        "routerName": "install"
+    },
+    {
+        "name": "Configuration",
+        "routerName": "config"
+    },
+    {
+        "name": "Utilisation",
+        "routerName": "usage"
+    },
+    {
+        "name": "API",
+        "routerName": "api"
+    },
+    {
+        "name": "FAQ",
+        "routerName": "faq"
+    },
+    {
+        "name": "Changelog",
+        "routerName": "changelog"
+    },
+    {
+        "name": "License",
+        "routerName": "license"
+    },
+    {
+        "name": "Credits",
+        "routerName": "credits"
+    }
+]
