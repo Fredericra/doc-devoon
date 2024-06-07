@@ -17,6 +17,7 @@ import Public from "../Page/Public.vue";
 import Models from "../Page/Model.vue";
 import Controllers from "../Page/Controle.vue";
 import Views from "../Page/View.vue";
+import FileStorage from "../Page/FileStorage.vue";
 const routes = [
     {
         path:"/",
@@ -102,6 +103,11 @@ const routes = [
         path:"/Views-models",
         name:"Views",
         component: Views
+    },
+    {
+        path:"/FileStorage",
+        name:"FileStorage",
+        component: FileStorage
     }
    
 ]
