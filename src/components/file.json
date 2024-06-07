@@ -1,0 +1,37 @@
+[
+    {
+        "dirname": "Config",
+        "file": [
+            {
+                "filename":"langage.json",
+                "description":"langage.json configuration application langage "
+            },
+            {
+                "filename":"Middleware.json",
+                "description":"Middleware.json is configuration data store middleware"
+            },
+            {
+                "filename":"validation.en.json",
+                "description":"validation.en providers more messages if action on validation "
+            }
+        ]
+    },
+    {
+        "dirname":"Database",
+        "file":[
+            {
+                "filename":"Database",
+                "description":"Database store all tables after created"
+            }
+        ]
+    },
+    {
+        "dirname":"Middleware",
+        "file":[
+           {
+            "filename":"This directory contains middleware",
+            "description":"if you create a middleware , this directory store the middleware"
+           } 
+        ]
+    }
+]

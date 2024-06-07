@@ -3,7 +3,7 @@
 
 
 ## Documentation Devoon FRAMEWORK
-[Devoon Documentation](https://github.com/Fredericra/doc-devoon)
+[Devoon Documentation](https://doc-devoon.onrender.com/)
 
 ## Clone app
 

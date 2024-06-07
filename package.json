@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "fontawesome-free": "^1.0.4",
+    "v-clipboard": "^3.0.0-next.1",
     "vue": "^3.4.21",
+    "vue-clipboard": "^0.0.1",
     "vue-router": "^4.3.2"
   },
   "devDependencies": {

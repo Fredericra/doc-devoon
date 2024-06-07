@@ -1,0 +1,30 @@
+[
+    {
+        "title":"MVC Architecture",
+        "soustitle":"Clearly separates the application logic, user interface and data, ensuring a clean and maintainable codebase."
+    },
+    {
+        "title":"Routing system",
+        "soustitle":"A simple yet powerful routing system that allows for clean URLS and easy handling of different HTTPS methods"
+    },
+    {
+        "title":"Database Abstractions",
+        "soustitle":"A straightForwarded database layer that supports common database operations and ensures secure and efficient interactions with the database"
+    },
+    {
+        "title":"Template Engine",
+        "soustitle":"An intuitive template engine for creating dynamic and reusable views"
+    },
+    {
+        "title":"Form Handling and Validation",
+        "soustitle":"Build-in tool for form processing and validation to facilitate secure and reliable user input handling"
+    },
+    {
+         "title":"Session Management",
+         "soustitle":"Easy-to-use session management to maintain user state across different pages of the application"
+    },
+    {
+        "title":"Error Handling and Logging",
+        "soustitle":"Comprehensive error handling and logging mechanism to help developers deb and monitor ther application effectively"
+    }
+]

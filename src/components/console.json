@@ -1,0 +1,93 @@
+
+[
+    {
+        "title":"Application",
+        "cmd":[
+            {
+                "commande":"serve",
+                "text":"start server application devoon server",
+                "tags":""
+            },
+            {
+                "commande":"serve:port",
+                "text":"start server on ther port your self choices server",
+                "tags":""
+            }
+        ]
+    },
+    {
+        "title":"databases",
+        "cmd":[
+            {
+                "commande":"db:refresh",
+                "text":"refreshing database information and tables...",
+                "tags":[]
+            },
+            {
+                "commande":"db:update",
+                "text":"updating database information and tables...",
+                "tags":[]
+            },
+            {
+                "commande":"db:up",
+                "text":"updating database information and tables...",
+               "tags":[]
+            },
+            {
+                "commande":"db:defaults",
+                "text":"refreshing database and delete tables and database information...",
+                "tags":[]
+            }
+        ]
+    },
+    {
+        "title":"Controllers Commands",
+        "cmd":[
+            {
+                "commande":"controller:create",
+                "text":"create a new controller in application",
+                "tags":[
+                    "--gen"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Models Commands",
+        "cmd":[
+            {
+                "commande":"model:create",
+                "text":"create a new model in application",
+                "tags":[
+                   
+                ]
+            }
+        ]
+    },
+    {
+        "title":"View Commands",
+        "cmd":[
+            {
+                "commande":"view:create",
+                "text":"create a new view in application",
+                "tags":[
+                    "--table:tableName",
+                    "--permission:true or false"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Middleware Commands",
+        "cmd":[
+            {
+                "commande":"middleware:create",
+                "text":"create middleware code easy to use with in that application",
+                "tags":[
+                    "--name:middlewarename"
+                ]
+            }
+        ]
+    }
+
+]
